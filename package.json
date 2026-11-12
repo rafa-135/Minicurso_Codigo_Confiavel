@@ -1,0 +1,25 @@
+{
+  "name": "minicurso_codigo_confiavel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch":"jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafa-135/Minicurso_Codigo_Confiavel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rafa-135/Minicurso_Codigo_Confiavel/issues"
+  },
+  "homepage": "https://github.com/rafa-135/Minicurso_Codigo_Confiavel#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
